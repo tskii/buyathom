@@ -1,7 +1,7 @@
 {
     "name": "文档",
     "short_name": "文档",
-    "start_url": "http:/localhost:8888/buyathome/myTest/dist/index.html",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "description": "文档",
